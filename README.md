@@ -32,8 +32,8 @@ persistence. Face recognition backend integration is pending.
 ## Screenshots
 
 ### Dashboard
-![Verdant Dashboard](1.png)
-![Verdant Dashboard](2.png)
+![Verdant Dashboard](screenshots/1.png)
+![Verdant Dashboard](screenshots/2.png)
 
 ### Student Enrollment
 ![Student Enrollment](screenshots/3.png)
